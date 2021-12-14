@@ -24,7 +24,7 @@ Um den Prozess des legalen Herunterladens dieses PDFs zu vereinfachen, habe ich 
 - Ausloggen
 
 ## Requirements
-- gültiges digial Abo und Logindaten
+- gültiges [Digital-Abo](https://leserservice.rp-online.de/) und Logindaten
 - bash
 - curl
 - grep
