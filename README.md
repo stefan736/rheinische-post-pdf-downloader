@@ -22,3 +22,11 @@ Um den Prozess des legalen Herunterladens dieses PDFs zu vereinfachen, habe ich 
 - Ermittlung der Id der aktuellen Ausgabe
 - Download des PDF
 - Ausloggen
+
+## Requirements
+- gültiges digial Abo und Logindaten
+- bash
+- curl
+- grep
+- head
+- sed
