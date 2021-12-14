@@ -16,7 +16,7 @@ Um den Prozess des legalen Herunterladens dieses PDFs zu vereinfachen, habe ich 
 `
 
 ## Was macht das Script?
-- Initaler Aufruf von https://epaper.rp-online.de
+- Initialer Aufruf von https://epaper.rp-online.de
 - Ablage von benötigten Cookies und merken eines [CSRF-Tokens](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 - Einloggen auf https://epaper.rp-online.de 
 - Ermittlung der Id der aktuellen Ausgabe
