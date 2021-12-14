@@ -2,7 +2,7 @@
 Shell-Script zum Herunterladen der Tagesausgabe der Rheinischen Post als PDF (ePaper).
 
 Als Kunde der Rheinischen Post mit Zugang zum ePaper kann man die aktuelle Zeitung in digitaler Form in der App oder auf der Internetseite lesen.
-Darüber hinaus besteht auch die Möglichkeit die gesamte Ausgabe als PDF herunterzuladen, was nützlich sein kann um zum Beispiel die Zeitung auf beliebigen Endgeräten lesen zu können.
+Darüber hinaus besteht auch die Möglichkeit die gesamte Ausgabe als PDF herunterzuladen, was nützlich sein kann um zum Beispiel die Zeitung auf beliebigen Endgeräten offline lesen zu können.
 
 Um den Prozess des legalen Herunterladens dieses PDFs zu vereinfachen, habe ich dieses Script geschrieben.
 
